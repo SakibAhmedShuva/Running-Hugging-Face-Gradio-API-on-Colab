@@ -32,7 +32,7 @@
 
 Many powerful AI models, including **Stable Diffusion 3**, are available on the Hugging Face Hub as interactive Gradio demos. While these web interfaces are excellent for manual testing, automating image generation or integrating them into workflows requires programmatic API access.
 
-This repository provides a **single, well-documented Jupyter Notebook** (`sd.ipynb`) that demonstrates how to:
+This repository provides a **single, well-documented Jupyter Notebook** (`gradio_API_check.ipynb`) that demonstrates how to:
 
 > 🔗 **Connect** to Gradio API endpoints using the `gradio_client` library  
 > 🔐 **Handle authentication** for gated models requiring Hugging Face login  
@@ -129,7 +129,7 @@ Before running the notebook, ensure you have:
 git clone https://github.com/SakibAhmedShuva/Running-Hugging-Face-Gradio-API-on-Colab.git
 
 # Open the notebook in your preferred environment
-jupyter notebook notebooks/sd.ipynb
+jupyter notebook notebooks/gradio_API_check.ipynb
 ```
 
 ---

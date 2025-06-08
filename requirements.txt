@@ -1,0 +1,4 @@
+gradio_client==1.10.2
+huggingface_hub==0.30.2
+ipython==8.12.3
+Pillow==11.2.1
